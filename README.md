@@ -9,4 +9,4 @@ The Dice Game features an engaging interface created with HTML and CSS, and inte
 <ul>-Button click functionality for rolling the dice.</ul>
 
 ## Screenshot
-<ul><img src="preview/d1.png" width=50%><img src="preview/d2.png" width=50%></ul>
+<ul padding=10px><img src="preview/d1.png" width=50%><img src="preview/d2.png" width=50%></ul>
