@@ -1,9 +1,3 @@
-<style>
-  img{
-    margin=50px;
-  }
-</style>
-
 # Dice-Game
 The Dice Game features an engaging interface created with HTML and CSS, and interactive functionality using JavaScript. Players can roll the dice by clicking a button, and the game dynamically updates to display the results and declare the winner or a draw. The design includes responsive elements, custom fonts, and styling for a visually appealing user experience.
 
